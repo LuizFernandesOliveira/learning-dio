@@ -78,5 +78,7 @@ void main(List<String> arguments) {
   } while (count > 1);
 
   // funcoes
+  // Orientação a Objetos
+  // Tratamento de excecoes
   
 }
